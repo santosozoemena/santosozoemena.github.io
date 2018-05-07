@@ -22,7 +22,7 @@ div a {
 }
 /* background="../img/lagos2.png" */
 .background1 {
-    background-image: url('../img/lagos3.png');
+    background-image: url('/assets/images/lagos3.png');
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
